@@ -1,5 +1,0 @@
-nom prenom age note
-elkassimi mohamed 20 16.5
-khouya fatima 19 14.00
-aghbalou ilyass 21 12.00
-aitbrahim simane 18 18.5
